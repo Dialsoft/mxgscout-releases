@@ -11,6 +11,7 @@ It keeps itself up to date.
 ## What it does
 - Opens MOBOTIX `.MXG` camera recordings. Drag and drop files or a whole folder.
 - **Instant, frame-exact timeline scrubbing.** Drag the slider and the picture follows.
+- **Sound** plays in sync with the picture, with volume control.
 - Play / pause, step one frame forward or back, jump 10 seconds, speeds from 0.25× to 16×, full screen.
 - Shows the camera's real **recording date and time** for every picture.
 - Skips the camera's dead gaps (times it recorded nothing) during playback.

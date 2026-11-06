@@ -1,5 +1,10 @@
 # MXG Scout - What's new
 
+## 1.2.0 - November 5, 2026
+- **Sound!** The camera's microphone sound now plays while you watch, in sync with the picture, including after scrubbing, pausing and the skipped dead gaps.
+- "Sound" on/off box (key: **M**) and a volume slider that can also make quiet camera microphones louder (up to double). Both take effect immediately and are remembered.
+- Sound plays at normal 1× speed and is muted at other speeds.
+
 ## 1.1.0 - November 5, 2026
 - **Automatic updates.** MXG Scout checks for a new version when it starts and every 6 hours. A yellow bar offers "Update now". The download is verified (exact size, SHA-256 checksum and version check), then MXG Scout swaps itself in and restarts with the same files in its list.
 - "Check for updates automatically" setting (takes effect immediately).
