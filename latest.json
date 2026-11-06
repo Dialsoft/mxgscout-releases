@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "published": "2026-11-05",
-  "notes": "\u2022 Automatic updates: MXG Scout checks for a new version when it starts and every 6 hours. A yellow bar offers \"Update now\", the download is verified (exact size, SHA-256 checksum and version check), and MXG Scout swaps itself in and restarts with the same files in its list.\n\u2022 \"Check for updates automatically\" setting (takes effect immediately). The title bar shows whether you're up to date.\n\u2022 New Help menu: Release Notes, Check for Updates Now, Keyboard Shortcuts & About. After an update, MXG Scout shows what's new automatically.\n\u2022 Smaller download: about 39 MB instead of 105 MB.",
+  "notes": "\u2022 Sound! The camera's microphone sound now plays while you watch, in sync with the picture, including after scrubbing, pausing and the skipped dead gaps.\n\u2022 \"Sound\" on/off box (key: M) and a volume slider that can also make quiet camera microphones louder (up to double). Both take effect immediately and are remembered.\n\u2022 Sound plays at normal 1x speed and is muted at other speeds.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "7d11321ae0961230ad5fc2a4d0d3904758c9cd797d2f3e797462e6b77d7363ec",
-  "size": 39090597
+  "sha256": "41e01d3b5b61e93e7a8430b35bd89e01c462bd4677a5960cfe5bd3c77e987cd6",
+  "size": 39097253
 }
