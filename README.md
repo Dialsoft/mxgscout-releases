@@ -2,7 +2,7 @@
 
 **MOBOTIX .MXG video viewer that actually works, and a one-click YouTube converter, for Windows 10 & 11.**
 
-[⬇ Download MXGScout.exe](https://dialsoft.com/download/mxgscout)  ·  [What's new](CHANGELOG.md)  ·  [dialsoft.com](https://dialsoft.com/#mxgscout)
+[⬇ Download MXGScout.exe](https://dialsoft.com/download/mxgscout)  ·  [▶ Watch the 1-minute video](https://dialsoft.com/media/mxgscout-explainer.mp4)  ·  [What's new](CHANGELOG.md)  ·  [dialsoft.com](https://dialsoft.com/#mxgscout)
 
 MXG Scout is one portable program with no installer and nothing else to download.
 Put `MXGScout.exe` on your Desktop, in Downloads or in `C:\Tools` and double-click it.
@@ -18,6 +18,7 @@ It keeps itself up to date.
 - **Converts to YouTube-ready MP4** (H.264 + AAC, with sound), one file or a whole batch.
 - **Trim** with Mark In / Mark Out to convert just the part you want.
 - Full-resolution PNG snapshots.
+- Built-in Getting Started tutorial (Help menu) and automatic updates.
 
 ## Notes
 - Windows may say "Windows protected your PC" the first time, because the program isn't code-signed yet.

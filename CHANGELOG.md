@@ -1,5 +1,11 @@
 # MXG Scout - What's new
 
+## 1.3.0 - November 6, 2026
+- **Built-in Getting Started tutorial**: a short guided tour that points at each control. It starts by itself the first time, and any time from Help → Getting Started Tutorial.
+- **Explainer video**: Help → Watch the Explainer Video (also on [dialsoft.com](https://dialsoft.com/#mxgscout)).
+- Bigger, labeled **Volume** slider next to the Sound box in the player controls.
+- Help menu now has a proper **About MXG Scout** and a separate **Keyboard Shortcuts** list.
+
 ## 1.2.0 - November 5, 2026
 - **Sound!** The camera's microphone sound now plays while you watch, in sync with the picture, including after scrubbing, pausing and the skipped dead gaps.
 - "Sound" on/off box (key: **M**) and a volume slider that can also make quiet camera microphones louder (up to double). Both take effect immediately and are remembered.
