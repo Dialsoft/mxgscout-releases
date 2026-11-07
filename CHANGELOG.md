@@ -1,5 +1,9 @@
 # MXG Scout - What's new
 
+## 1.9.0 - November 7, 2026
+- **NEW: live view.** After you run Find Cameras with "Remember login" ticked, the Camera Grid can show your cameras live - use the **Go Live** button on the grid toolbar, or right-click a camera and choose **Watch Live**. Click again to go back to the recordings. A red LIVE badge shows which tiles are live.
+- Your camera login can be remembered on this PC, encrypted with Windows (DPAPI) so only your account on this computer can read it. Untick "Remember login" to forget it.
+
 ## 1.8.0 - November 7, 2026
 - **Much faster Camera Grid.** Scrubbing is now instant: dragging the timeline shows each minute's picture straight away instead of waiting for the video engine.
 - **New Rewind and Fast-forward buttons** on every camera - skim backwards or forwards through the recordings, a quick picture per minute, at 1x to 16x. Perfect for finding an event fast. Click again to stop; Play still gives full-motion video.
