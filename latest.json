@@ -1,8 +1,8 @@
 {
-  "version": "2.2.1",
+  "version": "2.3.0",
   "published": "2026-11-07",
-  "notes": "• Live Cameras now remembers your cameras between runs — open the window and your camera list is already there, no need to scan every time. Scan Network refreshes their addresses and adds any new ones.\n• The list is one clean line per camera, in camera-number order (52, 100, 161...), like the MOBOTIX software.\n• Click a camera and its name, address and serial number show along the bottom.",
+  "notes": "• NEW: Add Video Sources. In Live Cameras, click \"Add Cameras...\". It scans the network and lists every MOBOTIX camera in a table — Name, IP, Model, Firmware — with a Status column showing which are already in your system and which are new, plus a legend.\n• Click any row to preview that camera live on the right.\n• Tick the cameras you want and click \"Add Checked to System\" — they join your Live Cameras list and are remembered.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "581d394c6257de5f60af889d5561fc068207b624efc6be618e3d9464958b6361",
-  "size": 39280549
+  "sha256": "93d3da1602cd4e8fb73ae3bd73b44d7a0eed4fe01fe9e2b916f1c3ef4653b416",
+  "size": 39294885
 }

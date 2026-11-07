@@ -1,6 +1,12 @@
 # MXG Scout - What's new
 
 
+## 2.3.0 - November 7, 2026
+- **NEW: Add Video Sources.** In Live Cameras, click **Add Cameras...**. It scans the network and lists every MOBOTIX camera in a table — **Name, IP, Model, Firmware** — with a **Status** column showing which are already in your system and which are new, plus a legend.
+- Click any row to **preview that camera live** on the right.
+- Tick the cameras you want and click **Add Checked to System** — they join your Live Cameras list and are remembered.
+
+
 ## 2.2.1 - November 7, 2026
 - **Live Cameras remembers your cameras between runs** — open the window and the list is already there, no scan needed. Scan Network refreshes addresses and adds new cameras.
 - One clean line per camera, in camera-number order (52, 100, 161...), like the MOBOTIX software.
