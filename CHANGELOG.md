@@ -1,5 +1,10 @@
 # MXG Scout - What's new
 
+## 2.2.0 - November 7, 2026
+- **Live Cameras rebuilt** to feel like the MOBOTIX control center, but with MXG Scout's ribbon. The top is now a ribbon band grouped into **Network** (Scan Network, your login) and **Camera** (Snapshot, Full Screen); the left is a **CAMERAS** tree; the live picture fills the right.
+- **Snapshot** saves the picture you're watching to your Desktop.
+- **Full Screen** (button, or double-click the picture) blows the live view up to fill the window; press **Esc** or double-click again to come back.
+
 ## 2.1.2 - November 7, 2026
 - **Live Cameras** now starts with the MOBOTIX factory login already filled in (`admin` / `meinsm`), so a first scan works straight away on cameras still using the default password. Type your own login over it for cameras you've secured, and tick **Remember login** to save it.
 
