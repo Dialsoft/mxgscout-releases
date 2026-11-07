@@ -1,5 +1,8 @@
 # MXG Scout - What's new
 
+## 1.4.5 - November 6, 2026
+- Folder Survey: after you choose the recordings folder, the window **lists the folders inside it with tick boxes**, usually one per camera, shown with its IP address (`10_12_159_163` = camera 10.12.159.163) and when it last changed. Tick the camera(s) you want and only those are surveyed. Tick All / Untick All buttons included; nothing ticked = everything.
+
 ## 1.4.4 - November 6, 2026
 - Folder Survey now shows a **progress window**: a percent-done bar, the folder it's reading, how many files and folders so far, time elapsed and roughly how long is left. A **Stop & Save Report** button (or Esc) ends it early and still saves the report.
 - Tip: to survey just one camera, choose that camera's folder (for example `Y:\10_12_159_163`) instead of the whole drive.
