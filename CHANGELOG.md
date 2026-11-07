@@ -1,5 +1,11 @@
 # MXG Scout - What's new
 
+## 1.5.0 - November 6, 2026
+- **NEW: Camera Grid** (button at the top). Point it at the folder where your MOBOTIX cameras save their recordings and see every camera at once, labeled with its real name and address. Each camera has its own play/pause, previous/next minute, speed (1x to 16x) and a timeline covering all of its recordings.
+- Right-click a camera to go to a date & time, show that same moment on every camera, or open 1, 5 or 15 minutes in the main player (sound, frame-by-frame, MP4 for YouTube). Clips are saved in Videos\MXG Scout Clips.
+- Double-click a camera to show it big with full detail; double-click again (or Esc) to go back. **Cameras** picks which ones are shown, **Per row** sets the layout. Everything is remembered.
+- Times come from when the recording server saved each minute, so cameras with a wrong clock still line up.
+
 ## 1.4.5 - November 6, 2026
 - Folder Survey: after you choose the recordings folder, the window **lists the folders inside it with tick boxes**, usually one per camera, shown with its IP address (`10_12_159_163` = camera 10.12.159.163) and when it last changed. Tick the camera(s) you want and only those are surveyed. Tick All / Untick All buttons included; nothing ticked = everything.
 
