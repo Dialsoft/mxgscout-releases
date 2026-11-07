@@ -1,5 +1,10 @@
 # MXG Scout - What's new
 
+## 1.4.0 - November 6, 2026
+- **New: Help → Survey a MOBOTIX Recording Folder.** Point it at the folder (or network share) where your cameras save their recordings and it writes a text report on your Desktop describing how the folders and files are laid out. It only reads (nothing is changed), and no pictures or sound go into the report.
+- Send the report to Dialsoft so a future version can show all your cameras in one grid with shared playback controls.
+- Press **Esc** to stop a survey early; the report still covers what was looked at.
+
 ## 1.3.0 - November 6, 2026
 - **Built-in Getting Started tutorial**: a short guided tour that points at each control. It starts by itself the first time, and any time from Help → Getting Started Tutorial.
 - **Explainer video**: Help → Watch the Explainer Video (also on [dialsoft.com](https://dialsoft.com/#mxgscout)).
