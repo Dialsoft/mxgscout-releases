@@ -1,5 +1,9 @@
 # MXG Scout - What's new
 
+## 1.4.4 - November 6, 2026
+- Folder Survey now shows a **progress window**: a percent-done bar, the folder it's reading, how many files and folders so far, time elapsed and roughly how long is left. A **Stop & Save Report** button (or Esc) ends it early and still saves the report.
+- Tip: to survey just one camera, choose that camera's folder (for example `Y:\10_12_159_163`) instead of the whole drive.
+
 ## 1.4.3 - November 6, 2026
 - Folder Survey is now a **Quick survey** by default: it visits every camera folder but opens only a few sample folders inside each one, so even a huge network archive finishes in a minute or two. Tick **Full survey** in the survey window to open every folder instead.
 - Fixed: stopping a survey early with Esc skipped the look inside the sample files. It now always includes them.
