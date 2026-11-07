@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "published": "2026-11-06",
-  "notes": "\u2022 New: Help > Survey a MOBOTIX Recording Folder. Point it at the folder (or network share) where your cameras save their recordings and it writes a text report on your Desktop describing how the folders and files are laid out. It only reads - nothing is changed - and no pictures or sound go into the report.\n\u2022 Send the report to Dialsoft so a future version can show all your cameras in one grid with shared playback controls.\n\u2022 Press Esc to stop a survey early; the report still covers what was looked at.",
+  "notes": "\u2022 The Folder Survey now has its own folder chooser that lists every drive, including mapped network drives (the old Windows box could hide them). You can also type or paste a path like \\\\NAS\\Mobotix, or use Browse...\n\u2022 If MXG Scout is running as administrator, Windows hides mapped drive letters; they are now shown by their network path instead, and typed drive letters are switched to the network path automatically.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "69ae631fcc67c50573ed5db6067f7c13ae7a8606e4a7dd51aa1ecd3ea3b7e460",
-  "size": 39131045
+  "sha256": "ba23ba1a430dd71f0d9febfed591ae44d586769906ac4bfe5001012ffadc883e",
+  "size": 39140773
 }

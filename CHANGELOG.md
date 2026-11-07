@@ -1,5 +1,9 @@
 # MXG Scout - What's new
 
+## 1.4.1 - November 6, 2026
+- The Folder Survey now has its **own folder chooser that lists every drive, including mapped network drives** (the old Windows box could hide them). You can also type or paste a path like `\\NAS\Mobotix`, or use Browse….
+- If MXG Scout is running as administrator, Windows hides mapped drive letters; they are now shown by their network path instead, and typed drive letters are switched to the network path automatically.
+
 ## 1.4.0 - November 6, 2026
 - **New: Help → Survey a MOBOTIX Recording Folder.** Point it at the folder (or network share) where your cameras save their recordings and it writes a text report on your Desktop describing how the folders and files are laid out. It only reads (nothing is changed), and no pictures or sound go into the report.
 - Send the report to Dialsoft so a future version can show all your cameras in one grid with shared playback controls.
