@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "published": "2026-11-06",
-  "notes": "\u2022 NEW: Find Cameras (button in the Camera Grid, and under Help). It looks over your network, lists every MOBOTIX camera with its IP and MAC address, and checks your admin login on each one - green for OK, red for wrong password. It tries your login once per camera and never changes anything. Run it on a PC on the camera network.\n\u2022 Each camera is matched to its recording folder by MAC address, and the list can be saved as a report. Your login is used only during the scan and is never saved to disk.",
+  "version": "1.6.1",
+  "published": "2026-11-07",
+  "notes": "\u2022 Find Cameras now shows each camera's real name, and has a \"Recordings folder\" box so it can show names and mark which cameras have recordings even when run from a different PC than the one with the recordings drive.\n\u2022 Fixed the camera Name/Model column, which could show stray text from the camera's web page.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "405c844d8a0f51263367f80df36c904c97d448ae5114ed61203f67fd4818d2ec",
-  "size": 39220133
+  "sha256": "caf31d0824e9fe40a1c36ce3191f3cd50c0a147e0407a94ec8d10c4bbdb5aa4f",
+  "size": 39223205
 }
