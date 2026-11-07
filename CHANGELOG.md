@@ -1,5 +1,8 @@
 # MXG Scout - What's new
 
+## 2.1.2 - November 7, 2026
+- **Live Cameras** now starts with the MOBOTIX factory login already filled in (`admin` / `meinsm`), so a first scan works straight away on cameras still using the default password. Type your own login over it for cameras you've secured, and tick **Remember login** to save it.
+
 ## 2.1.1 - November 7, 2026
 - **Live Cameras** now shows each camera's **serial number** (the `10_xx_yy_zz` the camera reports, which is also the name of its recordings folder) next to its network address, so you can match a live camera to its recorded clips at a glance.
 

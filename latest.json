@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "published": "2026-11-07",
-  "notes": "• Live Cameras now shows each camera's serial number (the 10_xx_yy_zz the camera reports, which is also the name of its recordings folder) next to its network address, so you can match a live camera to its recorded clips at a glance.",
+  "notes": "• Live Cameras now starts with the MOBOTIX factory login already filled in (admin / meinsm), so a first scan works straight away on cameras still using the default password. Type your own login over it for cameras you've secured, and tick \"Remember login\" to save it.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "f29f4c77fb48845c62a05717da72ea2f3703b747e7f97d5812e22e1099f4166a",
-  "size": 39271845
+  "sha256": "a55a58e37506840849347a4c7a5c9a6f89096efb384e0fa27141f725e98ffcbc",
+  "size": 39272869
 }
