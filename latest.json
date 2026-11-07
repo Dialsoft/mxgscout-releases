@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "published": "2026-11-07",
-  "notes": "• Brand-new ribbon interface. Tools are now organised into clear tabs across the top — Home, Convert, Cameras and Help — each holding only the tools for that job, grouped and labelled. The old crowded rows of buttons are gone.\n• Home has your files and the Camera Grid. Convert has every MP4 setting in one place. Cameras has Find Cameras and the folder survey. Help gathers the tutorial, shortcuts, what's-new and updates.\n• The play controls — timeline, play, rewind, frame step, speed, trim marks, snapshot, full screen and sound — stay along the bottom at all times, always to hand whichever tab you're on.",
+  "notes": "• NEW: Live Cameras. On the Cameras tab, click \"Live Cameras\", type your camera login, and click \"Scan Network\". MXG Scout sweeps your network for MOBOTIX cameras and lists them in a tree on the left, grouped by name.\n• Click any camera to watch it live on the right. The picture is pulled straight from the camera as snapshots several times a second — no video engine, so it starts instantly and works even on cameras the old live view couldn't handle.\n• Tick \"Remember login\" to save your camera password encrypted on this PC (Windows DPAPI).",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "12c36a0a6b5972341b67bb385f73b91503297bfa2e5be0d35dde1f1b5e607791",
-  "size": 39256485
+  "sha256": "6506fc5353574610c1c2b82dd372acb7da2b4888c2760116ac6ad25361e73f55",
+  "size": 39271333
 }

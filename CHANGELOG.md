@@ -1,5 +1,10 @@
 # MXG Scout - What's new
 
+## 2.1.0 - November 7, 2026
+- **NEW: Live Cameras.** On the **Cameras** tab, click **Live Cameras**. Type your camera login at the top, click **Scan Network**, and MXG Scout sweeps your network for MOBOTIX cameras (the ones whose MAC starts with `00:03:C5`) and lists them in a tree on the left, grouped by name.
+- Click any camera in the tree and it plays **live on the right**. The live picture is pulled straight from the camera as plain snapshots several times a second - no video engine, so it starts instantly and keeps working even on cameras the old live view couldn't handle.
+- Tick **Remember login** and your camera password is saved encrypted on this PC (Windows DPAPI), so you don't have to type it next time.
+
 ## 2.0.0 - November 7, 2026
 - **Brand-new ribbon interface.** The buttons are now organised into clear tabs across the top - **Home**, **Convert**, **Cameras** and **Help** - each holding only the tools for that job, grouped and labelled. The old crowded rows of buttons are gone.
 - **Home** has your files and the Camera Grid. **Convert** has every MP4 setting in one place. **Cameras** has Find Cameras and the folder survey. **Help** gathers the tutorial, keyboard shortcuts, what's-new and updates.
