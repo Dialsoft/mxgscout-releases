@@ -1,5 +1,10 @@
 # MXG Scout - What's new
 
+## 1.4.3 - November 6, 2026
+- Folder Survey is now a **Quick survey** by default: it visits every camera folder but opens only a few sample folders inside each one, so even a huge network archive finishes in a minute or two. Tick **Full survey** in the survey window to open every folder instead.
+- Fixed: stopping a survey early with Esc skipped the look inside the sample files. It now always includes them.
+- Folders are now visited in name order, so the report shows the oldest and newest recordings for each camera.
+
 ## 1.4.2 - November 6, 2026
 - **Rebuilt the Folder Survey window.** Everything is in one window: type or paste a folder, click a drive (mapped network drives included), use Browse… for the normal Windows folder picker, or drag a folder in from File Explorer.
 - Fixed: the survey window could close by itself while you were typing a path.

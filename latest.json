@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "published": "2026-11-06",
-  "notes": "\u2022 Rebuilt the Folder Survey window. Everything is in one window: type or paste a folder, click a drive (mapped network drives included), use Browse... for the normal Windows folder picker, or drag a folder in from File Explorer.\n\u2022 Fixed: the survey window could close by itself while you were typing a path.\n\u2022 The last folder you surveyed is remembered, and a mistyped or unreachable folder now shows a clear message instead of closing the window.\n\u2022 The finished report opens in an easy-to-read fixed-width view.",
+  "notes": "\u2022 Folder Survey is now a Quick survey by default: it visits every camera folder but opens only a few sample folders inside each one, so even a huge network archive finishes in a minute or two. Tick \"Full survey\" in the survey window to open every folder instead.\n\u2022 Fixed: stopping a survey early with Esc skipped the look inside the sample files. It now always includes them.\n\u2022 Folders are now visited in name order, so the report shows the oldest and newest recordings for each camera.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "00f76526995479c72fe1cdd6c7d0ab399c82156fab3ebe3e7ca3eb83b5e18bfd",
-  "size": 39144357
+  "sha256": "d23ab3f29ff683d50daa0a029885be752d93fc0651a39a8323dc3997ccd0cccd",
+  "size": 39147429
 }
