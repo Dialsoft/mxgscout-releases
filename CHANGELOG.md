@@ -1,5 +1,9 @@
 # MXG Scout - What's new
 
+## 1.7.0 - November 7, 2026
+- **NEW: a camera list** down the left of the Camera Grid, grouped by location (worked out from each camera's name - 53-TSU-CORP-ENTRANCE and 118-TSU-CORP-EXIT both sit under TSU-CORP). Tick or untick a camera, or a whole group, to show or hide it in the grid. Double-click a camera to make it big.
+- The **List** button on the toolbar shows or hides the panel. Your choices are remembered.
+
 ## 1.6.1 - November 7, 2026
 - Find Cameras now shows each camera's real name, and has a **Recordings folder** box so it can show names and mark which cameras have recordings even when you run it from a different PC than the one with the recordings drive.
 - Fixed the camera Name/Model column, which could show stray text from the camera's web page.

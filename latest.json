@@ -1,8 +1,8 @@
 {
-  "version": "1.6.1",
+  "version": "1.7.0",
   "published": "2026-11-07",
-  "notes": "\u2022 Find Cameras now shows each camera's real name, and has a \"Recordings folder\" box so it can show names and mark which cameras have recordings even when run from a different PC than the one with the recordings drive.\n\u2022 Fixed the camera Name/Model column, which could show stray text from the camera's web page.",
+  "notes": "\u2022 NEW: a camera list down the left of the Camera Grid, grouped by location (worked out from each camera's name - 53-TSU-CORP-ENTRANCE and 118-TSU-CORP-EXIT both sit under TSU-CORP). Tick or untick a camera, or a whole group, to show or hide it in the grid. Double-click a camera to make it big.\n\u2022 The \"List\" button on the toolbar shows or hides the panel. Your choices are remembered.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "caf31d0824e9fe40a1c36ce3191f3cd50c0a147e0407a94ec8d10c4bbdb5aa4f",
-  "size": 39223205
+  "sha256": "06302f0d567a00cd1c16339b79047c58a07b80112a336344b93e878cfa79a973",
+  "size": 39230373
 }
