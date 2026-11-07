@@ -1,5 +1,9 @@
 # MXG Scout - What's new
 
+## 1.6.0 - November 6, 2026
+- **NEW: Find Cameras** (button in the Camera Grid, and under Help). It looks over your network, lists every MOBOTIX camera with its IP and MAC address, and checks your admin login on each one - green for OK, red for wrong password. It tries your login once per camera and never changes anything. Run it on a PC on the camera network.
+- Each camera is matched to its recording folder by MAC address, and the list can be saved as a report. Your login is used only during the scan and is never saved to disk.
+
 ## 1.5.0 - November 6, 2026
 - **NEW: Camera Grid** (button at the top). Point it at the folder where your MOBOTIX cameras save their recordings and see every camera at once, labeled with its real name and address. Each camera has its own play/pause, previous/next minute, speed (1x to 16x) and a timeline covering all of its recordings.
 - Right-click a camera to go to a date & time, show that same moment on every camera, or open 1, 5 or 15 minutes in the main player (sound, frame-by-frame, MP4 for YouTube). Clips are saved in Videos\MXG Scout Clips.
