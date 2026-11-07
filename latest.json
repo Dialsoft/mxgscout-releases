@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "published": "2026-11-07",
-  "notes": "• NEW: Live Cameras. On the Cameras tab, click \"Live Cameras\", type your camera login, and click \"Scan Network\". MXG Scout sweeps your network for MOBOTIX cameras and lists them in a tree on the left, grouped by name.\n• Click any camera to watch it live on the right. The picture is pulled straight from the camera as snapshots several times a second — no video engine, so it starts instantly and works even on cameras the old live view couldn't handle.\n• Tick \"Remember login\" to save your camera password encrypted on this PC (Windows DPAPI).",
+  "notes": "• Live Cameras now shows each camera's serial number (the 10_xx_yy_zz the camera reports, which is also the name of its recordings folder) next to its network address, so you can match a live camera to its recorded clips at a glance.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "6506fc5353574610c1c2b82dd372acb7da2b4888c2760116ac6ad25361e73f55",
-  "size": 39271333
+  "sha256": "f29f4c77fb48845c62a05717da72ea2f3703b747e7f97d5812e22e1099f4166a",
+  "size": 39271845
 }

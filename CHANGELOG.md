@@ -1,5 +1,8 @@
 # MXG Scout - What's new
 
+## 2.1.1 - November 7, 2026
+- **Live Cameras** now shows each camera's **serial number** (the `10_xx_yy_zz` the camera reports, which is also the name of its recordings folder) next to its network address, so you can match a live camera to its recorded clips at a glance.
+
 ## 2.1.0 - November 7, 2026
 - **NEW: Live Cameras.** On the **Cameras** tab, click **Live Cameras**. Type your camera login at the top, click **Scan Network**, and MXG Scout sweeps your network for MOBOTIX cameras (the ones whose MAC starts with `00:03:C5`) and lists them in a tree on the left, grouped by name.
 - Click any camera in the tree and it plays **live on the right**. The live picture is pulled straight from the camera as plain snapshots several times a second - no video engine, so it starts instantly and keeps working even on cameras the old live view couldn't handle.
