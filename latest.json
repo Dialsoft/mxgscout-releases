@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "published": "2026-11-06",
-  "notes": "\u2022 The Folder Survey now has its own folder chooser that lists every drive, including mapped network drives (the old Windows box could hide them). You can also type or paste a path like \\\\NAS\\Mobotix, or use Browse...\n\u2022 If MXG Scout is running as administrator, Windows hides mapped drive letters; they are now shown by their network path instead, and typed drive letters are switched to the network path automatically.",
+  "notes": "\u2022 Rebuilt the Folder Survey window. Everything is in one window: type or paste a folder, click a drive (mapped network drives included), use Browse... for the normal Windows folder picker, or drag a folder in from File Explorer.\n\u2022 Fixed: the survey window could close by itself while you were typing a path.\n\u2022 The last folder you surveyed is remembered, and a mistyped or unreachable folder now shows a clear message instead of closing the window.\n\u2022 The finished report opens in an easy-to-read fixed-width view.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "ba23ba1a430dd71f0d9febfed591ae44d586769906ac4bfe5001012ffadc883e",
-  "size": 39140773
+  "sha256": "00f76526995479c72fe1cdd6c7d0ab399c82156fab3ebe3e7ca3eb83b5e18bfd",
+  "size": 39144357
 }

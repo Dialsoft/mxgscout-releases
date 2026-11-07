@@ -1,5 +1,11 @@
 # MXG Scout - What's new
 
+## 1.4.2 - November 6, 2026
+- **Rebuilt the Folder Survey window.** Everything is in one window: type or paste a folder, click a drive (mapped network drives included), use Browse… for the normal Windows folder picker, or drag a folder in from File Explorer.
+- Fixed: the survey window could close by itself while you were typing a path.
+- The last folder you surveyed is remembered, and a mistyped or unreachable folder now shows a clear message instead of closing the window.
+- The finished report opens in an easy-to-read fixed-width view.
+
 ## 1.4.1 - November 6, 2026
 - The Folder Survey now has its **own folder chooser that lists every drive, including mapped network drives** (the old Windows box could hide them). You can also type or paste a path like `\\NAS\Mobotix`, or use Browse….
 - If MXG Scout is running as administrator, Windows hides mapped drive letters; they are now shown by their network path instead, and typed drive letters are switched to the network path automatically.
