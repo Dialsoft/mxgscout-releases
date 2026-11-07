@@ -1,5 +1,9 @@
 # MXG Scout - What's new
 
+## 1.9.1 - November 7, 2026
+- Find Cameras has a **Save Camera Details** button: click one camera, then this, and MXG Scout saves a text file of that camera's technical replies (model, name, live-stream details) to your Desktop. It holds no password. Sending it to Dialsoft lets MXG Scout read your exact camera model and fine-tune live video.
+- To fill in camera names in the list, type the Recordings folder (for example `Z:`) before scanning.
+
 ## 1.9.0 - November 7, 2026
 - **NEW: live view.** After you run Find Cameras with "Remember login" ticked, the Camera Grid can show your cameras live - use the **Go Live** button on the grid toolbar, or right-click a camera and choose **Watch Live**. Click again to go back to the recordings. A red LIVE badge shows which tiles are live.
 - Your camera login can be remembered on this PC, encrypted with Windows (DPAPI) so only your account on this computer can read it. Untick "Remember login" to forget it.
