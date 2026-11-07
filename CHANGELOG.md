@@ -1,5 +1,9 @@
 # MXG Scout - What's new
 
+## 1.8.0 - November 7, 2026
+- **Much faster Camera Grid.** Scrubbing is now instant: dragging the timeline shows each minute's picture straight away instead of waiting for the video engine.
+- **New Rewind and Fast-forward buttons** on every camera - skim backwards or forwards through the recordings, a quick picture per minute, at 1x to 16x. Perfect for finding an event fast. Click again to stop; Play still gives full-motion video.
+
 ## 1.7.0 - November 7, 2026
 - **NEW: a camera list** down the left of the Camera Grid, grouped by location (worked out from each camera's name - 53-TSU-CORP-ENTRANCE and 118-TSU-CORP-EXIT both sit under TSU-CORP). Tick or untick a camera, or a whole group, to show or hide it in the grid. Double-click a camera to make it big.
 - The **List** button on the toolbar shows or hides the panel. Your choices are remembered.
