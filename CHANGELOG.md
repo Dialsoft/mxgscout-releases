@@ -1,6 +1,12 @@
 # MXG Scout - What's new
 
 
+## 3.0.0 - November 7, 2026
+- **Refocused.** MXG Scout is back to doing one job really well: viewing MOBOTIX .MXG recordings and converting them to MP4 for YouTube. The live-camera features have been retired — MxControlCenter already does live viewing, and keeping MXG Scout focused makes it faster and easier to use.
+- The ribbon is now three clean tabs: **Home**, **Convert** and **Help**.
+- Watching and converting are unchanged — open, scrub, fast-forward/rewind, frame-step, trim, snapshot, full screen, sound, and one-click MP4.
+
+
 ## 2.3.0 - November 7, 2026
 - **NEW: Add Video Sources.** In Live Cameras, click **Add Cameras...**. It scans the network and lists every MOBOTIX camera in a table — **Name, IP, Model, Firmware** — with a **Status** column showing which are already in your system and which are new, plus a legend.
 - Click any row to **preview that camera live** on the right.
