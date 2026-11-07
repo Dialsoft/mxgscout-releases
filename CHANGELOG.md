@@ -1,5 +1,10 @@
 # MXG Scout - What's new
 
+## 2.0.0 - November 7, 2026
+- **Brand-new ribbon interface.** The buttons are now organised into clear tabs across the top - **Home**, **Convert**, **Cameras** and **Help** - each holding only the tools for that job, grouped and labelled. The old crowded rows of buttons are gone.
+- **Home** has your files and the Camera Grid. **Convert** has every MP4 setting in one place. **Cameras** has Find Cameras and the folder survey. **Help** gathers the tutorial, keyboard shortcuts, what's-new and updates.
+- The **play controls** - timeline, play, rewind, frame step, speed, trim marks, snapshot, full screen and sound - stay along the bottom at all times, so they're always to hand whichever tab you're on.
+
 ## 1.9.1 - November 7, 2026
 - Find Cameras has a **Save Camera Details** button: click one camera, then this, and MXG Scout saves a text file of that camera's technical replies (model, name, live-stream details) to your Desktop. It holds no password. Sending it to Dialsoft lets MXG Scout read your exact camera model and fine-tune live video.
 - To fill in camera names in the list, type the Recordings folder (for example `Z:`) before scanning.
