@@ -1,5 +1,11 @@
 # MXG Scout - What's new
 
+
+## 2.2.1 - November 7, 2026
+- **Live Cameras remembers your cameras between runs** — open the window and the list is already there, no scan needed. Scan Network refreshes addresses and adds new cameras.
+- One clean line per camera, in camera-number order (52, 100, 161...), like the MOBOTIX software.
+- Clicking a camera shows its name, address and serial number along the bottom.
+
 ## 2.2.0 - November 7, 2026
 - **Live Cameras rebuilt** to feel like the MOBOTIX control center, but with MXG Scout's ribbon. The top is now a ribbon band grouped into **Network** (Scan Network, your login) and **Camera** (Snapshot, Full Screen); the left is a **CAMERAS** tree; the live picture fills the right.
 - **Snapshot** saves the picture you're watching to your Desktop.

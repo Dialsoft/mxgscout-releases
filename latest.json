@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "published": "2026-11-07",
-  "notes": "• Live Cameras rebuilt to feel like the MOBOTIX control center, with MXG Scout's ribbon. The top is a ribbon band grouped into Network (Scan Network, login) and Camera (Snapshot, Full Screen); the left is a CAMERAS tree; the live picture fills the right.\n• Snapshot saves the picture you're watching to your Desktop.\n• Full Screen (button or double-click the picture) blows the live view up to fill the window; Esc or double-click again to come back.",
+  "notes": "• Live Cameras now remembers your cameras between runs — open the window and your camera list is already there, no need to scan every time. Scan Network refreshes their addresses and adds any new ones.\n• The list is one clean line per camera, in camera-number order (52, 100, 161...), like the MOBOTIX software.\n• Click a camera and its name, address and serial number show along the bottom.",
   "exe": "https://raw.githubusercontent.com/Dialsoft/mxgscout-releases/main/MXGScout.exe",
-  "sha256": "585a24e7dccb23b2474a5620605edcbd20944657d838e5f97f3dd871d0ee9537",
-  "size": 39277477
+  "sha256": "581d394c6257de5f60af889d5561fc068207b624efc6be618e3d9464958b6361",
+  "size": 39280549
 }
